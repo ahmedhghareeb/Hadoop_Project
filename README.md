@@ -4,11 +4,11 @@
 
 https://docs.google.com/presentation/d/17CooF-cfo1g4TdGzIDgM92bdN_VIG2F-reo9zXcPMEc/edit?usp=sharing
 
-# Hadoop installation:
+# Hadoop Installation:
 https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practicing%20Hadoop%20in%20Jupyter%20Notebook.ipynb
 
 # Hadoop Project: 
-# 1- Processing and Creating Predictive models for Academic Buildings by Using Bigdata Technology (Regression Problem)
+# 1- Processing and Creating Predictive Models for Academic Buildings by Using Bigdata Technology (Regression Problem)
 https://github.com/ahmedhgh/Hadoop_Project/blob/master/Proj_part1_Ahmed_Ghareeb.ipynb
 
 In this project the University of Dayton campus buildings selected to develop and validate the knowledge discovery models to understand the behavior of energy consumption, we will use the campus buildings to understand the underlying behavior and attempt to use knowledge discovery methods (KDD) to gain knowledge about various campus buildings.
@@ -18,7 +18,7 @@ Certainly, the behavior of building will depend on the activities that occur in 
 Using Bigdata Technology (Hadoop and Spark) we can accelerate the process of predictive models by putting them in the external server or distribute them to be processed in parallel in and out core instead of traditional computing.
 
 
-# 2 - Gas sensors for home activity monitoring Data Set (Classification Problem)
+# 2 - Gas Sensors for Home Activity Monitoring - UCI Data Set (Classification Problem)
 https://github.com/ahmedhgh/Hadoop_Project/blob/master/Database_Project.ipynb
 
 STEPS (the objective and the appraoch)
