@@ -1,18 +1,19 @@
 # hadoop_project
 
-Hadoop Presentation:
+# Hadoop Presentation:
 
 https://docs.google.com/presentation/d/17CooF-cfo1g4TdGzIDgM92bdN_VIG2F-reo9zXcPMEc/edit?usp=sharing
 
-Hadoop installation:
+# Hadoop installation:
 https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practicing%20Hadoop%20in%20Jupyter%20Notebook.ipynb
 
-Hadoop Project: (Processing and Creating Predictive for Academic Buildings by Using Bigdata Technology):
+# Hadoop Project: (Processing and Creating Predictive for Academic Buildings by Using Bigdata Technology):
 
 In this project the University of Dayton campus buildings selected to develop and validate the knowledge
 discovery models to understand the behavior of energy consumption, we will use the campus buildings to
 understand the underlying behavior and attempt to use knowledge discovery methods (KDD) to gain
 knowledge about various campus buildings.
+
 Certainly, the behavior of building will depend on the activities that occur in it. For instance, the activities
 in the library building will appear to be more energy consuming during the weekends, classrooms more
 occupied during the class time which will vary roughly from 8 A.M to 12 P.M. and so on.
@@ -26,7 +27,10 @@ needed at each building monthly (medium-term prediction), and the amount of ener
 to extend the institute or plan for policy.
 Before we describe the tasks we will use to accomplish the above-mentioned problems, we will describe
 the datasets.
-Description of Data:
+
+
+
+# Description of Data:
 The data sets are consist of energy consumption for the academic building, and the individual dataset
 includes one building with consumption for one year with outside air temperature, day, hour, and
 workday or not. We separated the datasets to be easily interpretable, so for one month the size of the
