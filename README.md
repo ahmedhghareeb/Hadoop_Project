@@ -11,7 +11,7 @@ https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practi
 # 1- Processing and Creating Predictive models for Academic Buildings by Using Bigdata Technology (Regression Problem)
 https://github.com/ahmedhgh/Hadoop_Project/blob/master/Proj_part1_Ahmed_Ghareeb.ipynb
 
-# 2 - Gas sensors for home activity monitoring Data Set (Classification Problem)¶
+# 2 - Gas sensors for home activity monitoring Data Set (Classification Problem)
 https://github.com/ahmedhgh/Hadoop_Project/blob/master/Database_Project.ipynb
 
 
