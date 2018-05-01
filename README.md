@@ -28,7 +28,7 @@ to extend the institute or plan for policy.
 Before we describe the tasks we will use to accomplish the above-mentioned problems, we will describe
 the datasets.
 
-
+Using Bigdata Technology (Hadoop and Spark) we can accelerate the process of predictive models by putting them in the external server or distribute them to be processed in parallel in and out core instead of traditional computing.
 
 # Description of Data:
 The data sets are consist of energy consumption for the academic building, and the individual dataset
