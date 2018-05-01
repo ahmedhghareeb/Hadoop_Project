@@ -7,7 +7,8 @@ https://docs.google.com/presentation/d/17CooF-cfo1g4TdGzIDgM92bdN_VIG2F-reo9zXcP
 # Hadoop installation:
 https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practicing%20Hadoop%20in%20Jupyter%20Notebook.ipynb
 
-# Hadoop Project: (Processing and Creating Predictive for Academic Buildings by Using Bigdata Technology):
+# Hadoop Project: 2 - Gas sensors for home activity monitoring Data Set (Classification Problem)¶
+
 https://github.com/ahmedhgh/Hadoop_Project/blob/master/Database_Project.ipynb
 
 In this project the University of Dayton campus buildings selected to develop and validate the knowledge
