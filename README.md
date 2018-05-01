@@ -9,3 +9,27 @@ https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practi
 
 Hadoop Project: (Processing and Creating Predictive for Academic Buildings by Using Bigdata Technology):
 
+In this project the University of Dayton campus buildings selected to develop and validate the knowledge
+discovery models to understand the behavior of energy consumption, we will use the campus buildings to
+understand the underlying behavior and attempt to use knowledge discovery methods (KDD) to gain
+knowledge about various campus buildings.
+Certainly, the behavior of building will depend on the activities that occur in it. For instance, the activities
+in the library building will appear to be more energy consuming during the weekends, classrooms more
+occupied during the class time which will vary roughly from 8 A.M to 12 P.M. and so on.
+One of the important values we can get from this project using the knowledge discovery in addition to the
+general building behavior is the range and the amount of energy for the specific hour.
+Another important task in buildings is accurate energy prediction; this is useful because the institution
+owners need to make sure that they have the amount of energy needed at the particular time. Due to
+energy deregulation plan the building owners need to submit the amount of energy needed for the next 24
+hours to the utility providers (short-term prediction requirement), or they need to know how much energy
+needed at each building monthly (medium-term prediction), and the amount of energy needed if they plan
+to extend the institute or plan for policy.
+Before we describe the tasks we will use to accomplish the above-mentioned problems, we will describe
+the datasets.
+Description of Data:
+The data sets are consist of energy consumption for the academic building, and the individual dataset
+includes one building with consumption for one year with outside air temperature, day, hour, and
+workday or not. We separated the datasets to be easily interpretable, so for one month the size of the
+dataset is (2976 samples X 6 attributes). The current finished task building is the library (Roesch Library).
+The analysis performed and the predictive model created can be extended to other university buildings as
+well.
