@@ -8,6 +8,7 @@ https://docs.google.com/presentation/d/17CooF-cfo1g4TdGzIDgM92bdN_VIG2F-reo9zXcP
 https://github.com/ahmedhgh/hadoop_project/blob/master/Installing%20and%20Practicing%20Hadoop%20in%20Jupyter%20Notebook.ipynb
 
 # Hadoop Project: (Processing and Creating Predictive for Academic Buildings by Using Bigdata Technology):
+https://github.com/ahmedhgh/Hadoop_Project/blob/master/Database_Project.ipynb
 
 In this project the University of Dayton campus buildings selected to develop and validate the knowledge
 discovery models to understand the behavior of energy consumption, we will use the campus buildings to
